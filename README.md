@@ -29,5 +29,3 @@ Hi there! I’m Piyush, a passionate 4th-year Computer Science student exploring
   I’m a cricket enthusiast who loves exploring new places and trying out unique cuisines!  
 
 ---
-
-Let me know if this works better! 😊
