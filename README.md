@@ -20,7 +20,7 @@ Hi there! I’m Piyush, a passionate 4th-year Computer Science student exploring
   Software development, React, AI, or even cricket—I’m always up for a chat!  
 
 - 📫 **How to reach me:**  
-  Connect with me on [LinkedIn](#) or email me at **Piyush121004@gmail.com**.  
+  Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavya-piyush-b682161b9/) or email me at **Piyush121004@gmail.com**.  
 
 - 😄 **Pronouns:**  
   He/Him  
